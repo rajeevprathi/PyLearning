@@ -1,0 +1,2 @@
+Python latest version can be downloaded at - https://www.python.org/downloads/
+Installation is pretty straight forward. Just follow the UI setup and it is pretty seamless.
